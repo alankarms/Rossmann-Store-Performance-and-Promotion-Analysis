@@ -1,0 +1,6 @@
+CompetitionDistanceBand,DistanceRange
+Very Close,Up to 718 metres
+Close,Above 718 to 2325 metres
+Moderate,Above 2325 to 6882 metres
+Far,Above 6882 metres
+Unknown,Competition distance unavailable

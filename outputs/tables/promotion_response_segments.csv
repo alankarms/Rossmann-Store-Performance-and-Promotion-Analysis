@@ -1,0 +1,4 @@
+PromotionResponseSegment,NumberOfStores,AverageSalesUpliftPct,AverageNonPromoSales,AveragePromoSales
+High Promotion Response,279,65.23,4987.9,8178.84
+Low Promotion Response,279,20.26,7011.81,8387.58
+Moderate Promotion Response,557,40.11,5813.95,8127.83

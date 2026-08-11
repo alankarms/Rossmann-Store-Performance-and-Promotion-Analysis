@@ -1,0 +1,5 @@
+StoreTypeLabel,NumberOfStores,StoreSharePct,OperatingRecords,TotalSales,SalesContributionPct,AverageDailySales,MedianDailySales,AverageCustomers,MedianCustomers,AverageSalesPerCustomer,SalesStandardDeviation,SalesCoefficientOfVariationPct
+Type A,602,53.99,457042,3165334859,53.89,6925.7,6285.0,795.42,720.0,8.85,3277.35,47.32
+Type B,17,1.52,15560,159231395,2.71,10233.38,9130.0,2022.21,1839.5,5.13,5155.73,50.38
+Type C,148,13.27,112968,783221426,13.34,6933.13,6408.0,815.54,756.0,8.63,2896.96,41.78
+Type D,348,31.21,258768,1765392943,30.06,6822.3,6395.0,606.35,577.0,11.28,2556.4,37.47

@@ -1,0 +1,5 @@
+Variable,Count,Mean,Median,StandardDeviation,CoefficientOfVariationPct,Minimum,FirstQuartile,ThirdQuartile,Maximum
+Sales,844338.0,6955.96,6369.0,3103.82,44.62,46.0,4859.0,8360.0,41551.0
+Customers,844338.0,762.78,676.0,401.19,52.6,8.0,519.0,893.0,7388.0
+SalesPerCustomer,844338.0,9.49,9.25,2.2,23.15,2.75,7.9,10.9,64.96
+CompetitionDistance,842152.0,5458.16,2320.0,7809.57,143.08,20.0,710.0,6890.0,75860.0

@@ -1,0 +1,3 @@
+Dataset,Rows,Columns,Purpose
+train.csv,1017209,9,"Daily store-level sales, customers, promotions and holiday data"
+store.csv,1115,10,"Store characteristics, competition information and Promo2 participation"

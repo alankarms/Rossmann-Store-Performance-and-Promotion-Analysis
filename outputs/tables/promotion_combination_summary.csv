@@ -1,0 +1,5 @@
+PromotionCombination,OperatingRecords,NumberOfStores,AverageDailySales,AverageCustomers,AverageSalesPerCustomer
+Regular Promo Only,321594,1115,8307.51,860.66,10.07
+Regular Promo and Promo2,55281,571,7770.48,750.34,10.82
+No Active Promotion,400737,1115,6010.92,711.37,8.87
+Promo2 Only,66726,571,5442.78,610.04,9.37

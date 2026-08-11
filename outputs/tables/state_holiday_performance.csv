@@ -1,0 +1,5 @@
+StateHolidayLabel,OperatingRecords,NumberOfStores,AverageDailySales,MedianDailySales,AverageCustomers,AverageSalesPerCustomer
+Christmas Holiday,71,20,9743.75,8397.0,1569.23,6.27
+Easter Holiday,145,32,9887.89,8423.0,1686.89,6.32
+No State Holiday,843428,1115,6953.96,6368.0,762.13,9.5
+Public Holiday,694,156,8487.47,7556.0,1279.17,7.54

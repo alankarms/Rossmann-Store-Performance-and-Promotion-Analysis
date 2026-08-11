@@ -1,0 +1,5 @@
+PerformanceSegment,NumberOfStores,AverageDailySales,AverageCustomers,AverageSalesPerCustomer,AverageSalesVariability
+High Sales / High Footfall,451,8935.46,1020.44,9.09,25.84
+High Sales / Low Footfall,107,7354.76,595.4,12.31,26.71
+Low Sales / High Footfall,107,5896.34,784.57,7.55,27.96
+Low Sales / Low Footfall,450,5076.34,518.82,9.83,28.39

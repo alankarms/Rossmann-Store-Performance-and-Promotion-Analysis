@@ -1,0 +1,6 @@
+CompetitionDistanceBand,NumberOfStores,OperatingRecords,AverageDailySales,MedianDailySales,AverageCustomers,AverageSalesPerCustomer,SalesStandardDeviation,SalesCoefficientOfVariationPct
+Close,278,209599,6930.92,6209.0,798.72,9.22,3384.67,48.83
+Far,278,210860,6840.74,6402.0,648.7,10.6,2758.76,40.33
+Moderate,278,210190,6708.24,6306.0,683.81,9.94,2566.03,38.25
+Unknown,3,2186,5482.08,4658.5,552.9,9.98,2621.93,47.83
+Very Close,278,211503,7357.07,6588.0,921.53,8.21,3556.01,48.33

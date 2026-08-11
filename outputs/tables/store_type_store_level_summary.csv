@@ -1,0 +1,5 @@
+StoreTypeLabel,NumberOfStores,MeanStoreAverageSales,MedianStoreAverageSales,MeanStoreAverageCustomers,MeanStoreSalesPerCustomer
+Type A,602,6913.03,6481.22,792.19,8.87
+Type B,17,10112.31,9744.6,1999.03,5.13
+Type C,148,6917.88,6645.84,812.09,8.65
+Type D,348,6823.89,6695.22,604.22,11.32

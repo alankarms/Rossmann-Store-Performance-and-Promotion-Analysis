@@ -1,0 +1,4 @@
+AssortmentLabel,NumberOfStores,StoreSharePct,OperatingRecords,TotalSales,SalesContributionPct,AverageDailySales,MedianDailySales,AverageCustomers,MedianCustomers,AverageSalesPerCustomer,SalesStandardDeviation,SalesCoefficientOfVariationPct
+Basic,593,53.18,444875,2945750070,50.16,6621.52,6082.0,748.0,673.0,9.13,2972.05,44.88
+Extended,513,46.01,391254,2856484241,48.64,7300.84,6675.0,752.2,672.0,10.02,3183.85,43.61
+Extra,9,0.81,8209,70946312,1.21,8642.5,8088.0,2067.55,1895.0,4.16,3803.12,44.0
