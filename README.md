@@ -114,6 +114,7 @@ Rossmann-Store-Performance-and-Promotion-Analysis/
 │
 ├── requirements.txt
 └── README.md
+
 ## How to Run
 
 1. Clone the repository:
@@ -214,4 +215,3 @@ As a result, promotion profitability and the precise causes of store-level perfo
 Alankar Singh
 
 MSc Data Science, University of Exeter
-Diploma in Data Science, IIT Madras
